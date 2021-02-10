@@ -2,7 +2,7 @@
 <p>
   Aulas sobre HTML da plataforma de ensino Rocketseat <br>
   - Assuntos abordados:<br>
-  ## Conceitos <br>
+  - Conceitos <br>
     <li>O que é HTML</li>
     <li>Comentários</li>
     <li>Anatomia das Tags</li>
@@ -13,7 +13,7 @@
     <li>Caracteres Reservados</li>
     <li>Anatomia Documento</li>
   <br>
-  ## Trabalhando com Elementos <br>
+  - Trabalhando com Elementos <br>
     <li>Semântica</li>
     <li>Títulos e Parágrafos</li>
     <li>Listas</li>

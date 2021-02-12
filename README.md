@@ -34,5 +34,11 @@
   <br>
   <p>Obs: todos os arquivos estão separados nas respectivas pastas de cada "assunto"</p>
 </p>
+<br>
+
+  <h2>Para o projeto_html</h2>
+  <p>Para o projeto foi feito 3 páginas, uma como a "homepage" outra como uma página de "contato" e outra como um local <br>
+  de portifólio de imagens, esse projeto foi feito de acordo com as aulas da Rocketseat para a prática de HTML5 cru </p>
+
 
 Vinicius Cremon Giomo

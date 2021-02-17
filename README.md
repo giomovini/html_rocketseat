@@ -40,7 +40,7 @@
   de portifólio de imagens, esse projeto foi feito de acordo com as aulas da Rocketseat para a prática de HTML5 cru </p>
   <br>
   
-  - Tabelas:
+ - Tabelas <br>
   <li>tabela básica</li>
   <li>tabela com head, body, foot</li>
   <li>tabela complexa com acessibilidades</li>

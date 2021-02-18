@@ -33,11 +33,18 @@
   <li>Caminhos absolutos vs relativos</li>
   <br>
   - Tabelas <br>
-  <li>tabela básica</li>
-  <li>tabela com head, body, foot</li>
-  <li>tabela complexa com acessibilidades</li>
+  <li>Tabela básica</li>
+  <li>Tabela com head, body, foot</li>
+  <li>Tabela complexa com acessibilidades</li>
   <br>
   <p>Para essas aulas sobre tabela, utilizei o Preview </p>
+  <br>
+  - Cabeçalhos <br>
+  <li>Head</li>
+  <li>Meta</li>
+  <li>Favicon</li>
+  <li>Meta SEO</li>
+  <li>Meta Social</li>
 </p>
 <br>
  
